@@ -41,5 +41,47 @@ namespace LibraryManagement
         {
 
         }
+
+        private void 流通数目查询ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            流通查询 hf1 = new 流通查询();
+            hf1.Show();
+        }
+
+        private void 借阅书目查询ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            借阅信息查询 hf2 = new 借阅信息查询();
+            hf2.Show();
+        }
+
+        private void 借阅ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            借阅 hf3 = new 借阅("201809000");//此处改为登录者的卡号
+            hf3.Show();
+        }
+
+        private void 归还ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            归还 hf4 = new 归还("201809000");//此处改为登录者的卡号
+            hf4.Show();
+        }
+
+        private void 图书流通信息表备份ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            图书流通信息表备份还原 hf5 = new 图书流通信息表备份还原();
+            hf5.Show();
+        }
+
+        private void 借阅信息表备份ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            借阅信息表备份 hf6 = new 借阅信息表备份();
+            hf6.Show();
+        }
+
+        private void 用户信息表备份ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            用户信息表备份 hf7 = new 用户信息表备份();
+            hf7.Show();
+        }
     }
 }

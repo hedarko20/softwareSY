@@ -54,6 +54,48 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="借阅.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="借阅.Designer.cs">
+      <DependentUpon>借阅.cs</DependentUpon>
+    </Compile>
+    <Compile Include="借阅信息查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="借阅信息查询.Designer.cs">
+      <DependentUpon>借阅信息查询.cs</DependentUpon>
+    </Compile>
+    <Compile Include="借阅信息表备份.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="借阅信息表备份.Designer.cs">
+      <DependentUpon>借阅信息表备份.cs</DependentUpon>
+    </Compile>
+    <Compile Include="图书流通信息表备份还原.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="图书流通信息表备份还原.Designer.cs">
+      <DependentUpon>图书流通信息表备份还原.cs</DependentUpon>
+    </Compile>
+    <Compile Include="归还.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="归还.Designer.cs">
+      <DependentUpon>归还.cs</DependentUpon>
+    </Compile>
+    <Compile Include="流通查询.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="流通查询.Designer.cs">
+      <DependentUpon>流通查询.cs</DependentUpon>
+    </Compile>
+    <Compile Include="用户信息表备份.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户信息表备份.Designer.cs">
+      <DependentUpon>用户信息表备份.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -66,6 +108,27 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="借阅.resx">
+      <DependentUpon>借阅.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="借阅信息查询.resx">
+      <DependentUpon>借阅信息查询.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="借阅信息表备份.resx">
+      <DependentUpon>借阅信息表备份.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="图书流通信息表备份还原.resx">
+      <DependentUpon>图书流通信息表备份还原.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="归还.resx">
+      <DependentUpon>归还.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="流通查询.resx">
+      <DependentUpon>流通查询.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户信息表备份.resx">
+      <DependentUpon>用户信息表备份.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

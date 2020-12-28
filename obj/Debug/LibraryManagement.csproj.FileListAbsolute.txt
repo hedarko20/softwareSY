@@ -18,3 +18,10 @@ C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\
 C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
 C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.exe
 C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.流通查询.resources
+C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.借阅信息查询.resources
+C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.借阅.resources
+C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.归还.resources
+C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.图书流通信息表备份还原.resources
+C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.借阅信息表备份.resources
+C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.用户信息表备份.resources
