@@ -362,26 +362,30 @@ namespace LibraryManagement
             // 书商字典维护ToolStripMenuItem
             // 
             this.书商字典维护ToolStripMenuItem.Name = "书商字典维护ToolStripMenuItem";
-            this.书商字典维护ToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.书商字典维护ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.书商字典维护ToolStripMenuItem.Text = "书商字典维护";
+            this.书商字典维护ToolStripMenuItem.Click += new System.EventHandler(this.书商字典维护ToolStripMenuItem_Click);
             // 
             // 出版社字典维护ToolStripMenuItem
             // 
             this.出版社字典维护ToolStripMenuItem.Name = "出版社字典维护ToolStripMenuItem";
-            this.出版社字典维护ToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.出版社字典维护ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.出版社字典维护ToolStripMenuItem.Text = "出版社字典维护";
+            this.出版社字典维护ToolStripMenuItem.Click += new System.EventHandler(this.出版社字典维护ToolStripMenuItem_Click);
             // 
             // 收藏单位维护ToolStripMenuItem
             // 
             this.收藏单位维护ToolStripMenuItem.Name = "收藏单位维护ToolStripMenuItem";
-            this.收藏单位维护ToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.收藏单位维护ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.收藏单位维护ToolStripMenuItem.Text = "收藏单位维护";
+            this.收藏单位维护ToolStripMenuItem.Click += new System.EventHandler(this.收藏单位维护ToolStripMenuItem_Click);
             // 
             // 印刷厂字典维护ToolStripMenuItem
             // 
             this.印刷厂字典维护ToolStripMenuItem.Name = "印刷厂字典维护ToolStripMenuItem";
-            this.印刷厂字典维护ToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.印刷厂字典维护ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.印刷厂字典维护ToolStripMenuItem.Text = "印刷厂字典维护";
+            this.印刷厂字典维护ToolStripMenuItem.Click += new System.EventHandler(this.印刷厂字典维护ToolStripMenuItem_Click);
             // 
             // toolStrip1
             // 

@@ -25,3 +25,7 @@ C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\
 C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.图书流通信息表备份还原.resources
 C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.借阅信息表备份.resources
 C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.用户信息表备份.resources
+C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.书商字典维护.resources
+C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.出版社字典维护.resources
+C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.收藏单位维护.resources
+C:\Users\84356\Documents\Tencent Files\843566956\FileRecv\LibraryManagement\obj\Debug\LibraryManagement.印刷厂字典维护.resources

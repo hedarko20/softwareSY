@@ -54,6 +54,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="书商字典维护.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="书商字典维护.Designer.cs">
+      <DependentUpon>书商字典维护.cs</DependentUpon>
+    </Compile>
     <Compile Include="借阅.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,6 +78,18 @@
     <Compile Include="借阅信息表备份.Designer.cs">
       <DependentUpon>借阅信息表备份.cs</DependentUpon>
     </Compile>
+    <Compile Include="出版社字典维护.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="出版社字典维护.Designer.cs">
+      <DependentUpon>出版社字典维护.cs</DependentUpon>
+    </Compile>
+    <Compile Include="印刷厂字典维护.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="印刷厂字典维护.Designer.cs">
+      <DependentUpon>印刷厂字典维护.cs</DependentUpon>
+    </Compile>
     <Compile Include="图书流通信息表备份还原.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,6 +101,12 @@
     </Compile>
     <Compile Include="归还.Designer.cs">
       <DependentUpon>归还.cs</DependentUpon>
+    </Compile>
+    <Compile Include="收藏单位维护.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="收藏单位维护.Designer.cs">
+      <DependentUpon>收藏单位维护.cs</DependentUpon>
     </Compile>
     <Compile Include="流通查询.cs">
       <SubType>Form</SubType>
@@ -108,6 +132,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="书商字典维护.resx">
+      <DependentUpon>书商字典维护.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="借阅.resx">
       <DependentUpon>借阅.cs</DependentUpon>
     </EmbeddedResource>
@@ -117,11 +144,20 @@
     <EmbeddedResource Include="借阅信息表备份.resx">
       <DependentUpon>借阅信息表备份.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="出版社字典维护.resx">
+      <DependentUpon>出版社字典维护.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="印刷厂字典维护.resx">
+      <DependentUpon>印刷厂字典维护.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="图书流通信息表备份还原.resx">
       <DependentUpon>图书流通信息表备份还原.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="归还.resx">
       <DependentUpon>归还.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="收藏单位维护.resx">
+      <DependentUpon>收藏单位维护.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="流通查询.resx">
       <DependentUpon>流通查询.cs</DependentUpon>

@@ -83,5 +83,30 @@ namespace LibraryManagement
             用户信息表备份 hf7 = new 用户信息表备份();
             hf7.Show();
         }
+
+        private void 书商字典维护ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            书商字典维护 hf8 = new 书商字典维护();
+            hf8.Show();
+
+        }
+
+        private void 出版社字典维护ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            出版社字典维护 hf9 = new 出版社字典维护();
+            hf9.Show();
+        }
+
+        private void 收藏单位维护ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            收藏单位维护 hf10 = new 收藏单位维护();
+            hf10.Show();
+        }
+
+        private void 印刷厂字典维护ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            印刷厂字典维护 hf11 = new 印刷厂字典维护();
+            hf11.Show();
+        }
     }
 }
